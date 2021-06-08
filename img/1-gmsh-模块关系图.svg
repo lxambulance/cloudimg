@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<svg width="1108" height="118" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <polygon points="4,115 4,3 1105,3 1105,115 4,115" stroke="#ffffff" fill="#ffffff"/>
+ <polygon points="430,10 294,10 290,14 290,45 426,45 430,41 430,10" stroke="#bebebe" fill="#ffffff"/>
+ <polyline points="426,14 290,14" stroke="#bebebe" fill="none"/>
+ <polyline points="426,14 426,45" stroke="#bebebe" fill="none"/>
+ <polyline points="426,14 430,10" stroke="#bebebe" fill="none"/>
+ <text x="298" y="26" fill="#000000" font-family="Arial" font-size="12">M_graphics</text>
+ <polygon points="682,63 592,63 588,67 588,98 678,98 682,94 682,63" stroke="#bebebe" fill="#ffffff"/>
+ <polyline points="678,67 588,67" stroke="#bebebe" fill="none"/>
+ <polyline points="678,67 678,98" stroke="#bebebe" fill="none"/>
+ <polyline points="678,67 682,63" stroke="#bebebe" fill="none"/>
+ <text x="596" y="79" fill="#000000" font-family="Arial" font-size="12">M_core</text>
+ <polyline points="424,46 428,47 432,48 437,49 441,50 445,51 449,52 453,53 458,54 462,55 466,56 478,58 489,61 501,63 513,65 526,67 537,68 549,70 561,71 572,73 582,74" stroke="#cd0000" fill="none"/>
+ <text x="473" y="41" fill="#000000" font-family="Arial" font-size="12">663 / 4</text>
+ <polygon points="582,74 585,77 588,75 585,73 582,74" stroke="#cd0000" fill="#cd0000"/>
+ <polygon points="424,46 422,43 418,44 421,47 424,46" stroke="#cd0000" fill="#cd0000"/>
+ <polygon points="1104,63 858,63 855,67 855,98 1100,98 1104,94 1104,63" stroke="#bebebe" fill="#ffffff"/>
+ <polyline points="1100,67 855,67" stroke="#bebebe" fill="none"/>
+ <polyline points="1100,67 1100,98" stroke="#bebebe" fill="none"/>
+ <polyline points="1100,67 1104,63" stroke="#bebebe" fill="none"/>
+ <text x="863" y="79" fill="#000000" font-family="Arial" font-size="12">M_associated_utilities</text>
+ <polyline points="430,27 459,27 492,28 528,28 566,30 606,31 648,33 691,36 734,40 776,44 818,49 826,50 833,51 841,52 848,53 856,55 863,56 871,58 878,59 886,61 893,62" stroke="#0000cd" fill="none"/>
+ <text x="616" y="15" fill="#000000" font-family="Arial" font-size="12">488</text>
+ <polygon points="894,60 899,63 893,64 894,60" stroke="#0000cd" fill="#0000cd"/>
+ <polygon points="144,73 8,73 4,77 4,108 140,108 144,104 144,73" stroke="#bebebe" fill="#ffffff"/>
+ <polyline points="140,77 4,77" stroke="#bebebe" fill="none"/>
+ <polyline points="140,77 140,108" stroke="#bebebe" fill="none"/>
+ <polyline points="140,77 144,73" stroke="#bebebe" fill="none"/>
+ <text x="12" y="89" fill="#000000" font-family="Arial" font-size="12">M_interface</text>
+ <polyline points="150,74 163,71 176,68 189,65 203,62 217,59 230,56 244,53 258,50 271,47 284,44" stroke="#cd0000" fill="none"/>
+ <text x="181" y="36" fill="#000000" font-family="Arial" font-size="12">160 / 3</text>
+ <polygon points="284,44 287,45 290,43 286,41 284,44" stroke="#cd0000" fill="#cd0000"/>
+ <polygon points="150,74 147,72 144,75 147,76 150,74" stroke="#cd0000" fill="#cd0000"/>
+ <polyline points="150,89 187,88 229,88 275,87 323,86 372,85 420,84 466,83 510,82 549,82 582,81" stroke="#cd0000" fill="none"/>
+ <text x="324" y="68" fill="#000000" font-family="Arial" font-size="12">330 / 4</text>
+ <polygon points="582,81 585,83 588,81 585,79 582,81" stroke="#cd0000" fill="#cd0000"/>
+ <polygon points="150,89 147,87 144,89 147,91 150,89" stroke="#cd0000" fill="#cd0000"/>
+ <polyline points="150,97 180,99 214,102 251,105 291,107 333,109 376,111 420,112 465,113 509,113 552,113 568,113 582,112 595,112 606,112 617,111 628,111 639,110 652,109 666,108 682,107 698,106 715,104 732,103 749,102 766,100 783,99 799,97 816,96 832,94 848,93" stroke="#cd0000" fill="none"/>
+ <text x="466" y="98" fill="#000000" font-family="Arial" font-size="12">603 / 14</text>
+ <polygon points="848,93 851,95 854,93 851,91 848,93" stroke="#cd0000" fill="#cd0000"/>
+ <polygon points="150,97 147,95 144,97 147,99 150,97" stroke="#cd0000" fill="#cd0000"/>
+ <polyline points="688,80 701,80 716,80 731,80 747,80 764,80 780,80 797,80 814,80 831,80 848,80" stroke="#cd0000" fill="none"/>
+ <text x="719" y="65" fill="#000000" font-family="Arial" font-size="12">952 / 717</text>
+ <polygon points="848,80 851,82 854,80 851,78 848,80" stroke="#cd0000" fill="#cd0000"/>
+ <polygon points="688,80 685,78 682,80 685,82 688,80" stroke="#cd0000" fill="#cd0000"/>
+</svg>
